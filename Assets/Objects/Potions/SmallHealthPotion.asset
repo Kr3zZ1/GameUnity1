@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5fd6282a298774489f499e9caaf7780, type: 3}
+  m_Name: SmallHealthPotion
+  m_EditorClassIdentifier: 
+  _itemName: "\u041C\u0430\u043B\u043E\u0435 \u0437\u0435\u043B\u044C\u0435 \u043B\u0435\u0447\u0435\u043D\u0438\u044F"
+  _itemDescription: "\u0412\u043E\u0441\u0441\u0442\u0430\u043D\u0430\u0432\u043B\u0438\u0432\u0430\u0435\u0442
+    <color=yellow> 20 \u0435\u0434. \u0437\u0434\u043E\u0440\u043E\u0432\u044C\u044F
+    </color>"
+  _shortDescription: +20 HP
+  _itemPrice: 1
+  _itemPrefab: {fileID: 7584184934508440431, guid: de216ceb0328c7c40ae4ec435f7b4c49, type: 3}
+  _itemSprite: {fileID: -1289380617, guid: 2abfea64790e3ab4c86d1104c85c5213, type: 3}
+  _itemType: 0
+  _healAmount: 20

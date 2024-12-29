@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2acfbc5ae16cae848a57d7d0046a3073, type: 3}
+  m_Name: LightMeleeAttackPotion
+  m_EditorClassIdentifier: 
+  _itemName: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+    \u0441\u0438\u043B\u0443 \u043B\u0451\u0433\u043A\u043E\u0439 \u0430\u0442\u0430\u043A\u0438"
+  _itemDescription: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+    \u0441\u0438\u043B\u0443 \u043B\u0451\u0433\u043A\u043E\u0439 \u0430\u0442\u0430\u043A\u0438
+    \u043D\u0430 <color=yellow> \u043D\u0430 10% \u043D\u0430 90 \u0441\u0435\u043A\u0443\u043D\u0434
+    </color>"
+  _shortDescription: "+10% \u043A \u041B\u041A\u041C \u043D\u0430 90 \u0441\u0435\u043A"
+  _itemPrice: 1
+  _itemPrefab: {fileID: 6810754638473714008, guid: 13e1b9b0d2abe3446b51c5260c9e3061, type: 3}
+  _itemSprite: {fileID: 737865797, guid: 2abfea64790e3ab4c86d1104c85c5213, type: 3}
+  _itemType: 0
+  _damageMultiplier: 1.1
+  _duration: 90
